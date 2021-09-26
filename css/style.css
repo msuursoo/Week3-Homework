@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lobster&display=swap');
+
+body {
+    background-color:rgb(243, 210, 168)
+}
+
+.heading {
+    text-align: center;
+}
+
+.pasta-heading {
+    color: rgb(38, 73, 179);
+    font-family: 'Dancing Script', cursive;
+    font-size :3rem;
+}
+
+.main {
+    border: 2px solid brown;
+    width: 80%;
+    margin: 0 auto;
+}
+
+#table-heading {
+text-align: center;
+color: rgb(185, 14, 14);
+ }
+
+ .table-settings {
+    margin: 0 auto;
+    color: darkblue;
+ }
+
+.do {
+    color: rgb(29, 3, 182);
+}
+img {
+    width: 150px;
+}
+
+.footer {
+    color: darkslateblue;
+    text-align: center;
+}
